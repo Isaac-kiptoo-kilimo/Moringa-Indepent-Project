@@ -8,8 +8,10 @@ The project is about creating a website for a burger place with a beautiful scen
 
 ## Contributors
 
--Isaac-kiptoo-kilimo
+-Isaac kiptoo kilimo
 ---
 
 ## License & copyright
+
+Isaac kiptoo kilimo, student Moringa school
 
