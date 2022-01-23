@@ -96,7 +96,7 @@ div.logo{
     border-radius: 20px 20px 0 20px;
     outline: none;
     border: 0;
-    background-color:#fdba00;
+    background-color:#ff8800;
     padding: 6px 12px;
     color: white;
     margin-bottom: 30px;
@@ -260,7 +260,7 @@ div.logo{
     border-radius: 50%;
 }
 .active-dot{
-    background-color: #F6B400;
+    background-color: hsl(29, 100%, 50%);
 }
 .images{
     position: relative;
