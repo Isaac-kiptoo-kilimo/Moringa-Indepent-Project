@@ -288,7 +288,8 @@ div.logo{
 }
 .foot{
     display: flex;
-    margin-top: 20px;
+    background-color: #eff6ff;
+    padding: 40px 0;
 }
 .foot .w3{
     width: 33%;
@@ -304,5 +305,41 @@ div.logo{
 .dfl ul{
     list-style: none;
 }
-
+.sub{
+    padding: 30px;
+}
+.cop{
+    display: flex;
+    flex: 1;
+    padding: 10px;
+}
+.cop1{
+    flex: 0.33;
+}
+.cop1-2{
+    display: flex;
+    justify-content: center;
+}
+.cop1-2 img{
+    width: 30px; height: 30px;
+    margin-right: 20px;
+}
+.cop1-3{
+    text-align: right;
+}
+.sub form input, .sub form button{
+    height: 36px;
+}
+.sub form input{
+    background-color: white;
+    outline: none;
+    font-size: 14px;
+    font-weight: 400;
+    border: 0;
+}
+.sub form button{
+    padding: 0 20px;
+    background: #F6B400;
+    margin-left: 0;
+}
 
