@@ -216,8 +216,12 @@ div.logo{
     flex-direction: column;
     height: 100%;
 }
+.inner{
+    margin-top: 60px;
+}
 .inner h2{
     margin: 20px 0;
+    font-size: 36px;
 }
 .inner p{
     font-size: 12px;
@@ -237,4 +241,20 @@ div.logo{
     margin-right: 16px;
     background-color: #aaa;
     border-radius: 50%;
+}
+.active-dot{
+    background-color: #F6B400;
+}
+.images{
+    position: relative;
+}
+.images img{
+    max-width: 100%;
+
+}
+.images .img2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 400px;
 }
