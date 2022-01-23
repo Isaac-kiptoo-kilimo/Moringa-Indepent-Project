@@ -201,3 +201,40 @@ div.logo{
     color: #F6B400;
     text-transform: capitalize;
 }
+.action{
+    background-color: #eff6ff;
+    padding: 50px 0;
+    display: flex;
+}
+.action div{
+    width: 50%;
+}
+.action .action-inner{
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+.inner h2{
+    margin: 20px 0;
+}
+.inner p{
+    font-size: 12px;
+    font-weight: 300;
+    margin: 30px 0;
+}
+.decker{
+    color: #F6B400;
+}
+.dots{
+    display: flex;
+    list-style: none;
+}
+.dot{
+    width: 10px;
+    height: 10px;
+    margin-right: 16px;
+    background-color: #aaa;
+    border-radius: 50%;
+}
