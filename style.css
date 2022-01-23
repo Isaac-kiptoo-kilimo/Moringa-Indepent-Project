@@ -72,7 +72,7 @@ div.logo{
 .item2{ 
     display: flex;
     justify-content: space-between;
-    background: linear-gradient(115deg, white 50%, #F6B400 50%);
+    background: linear-gradient(110deg, white 51%, #F6B400 49%);
     padding-top: 100px;
 }
 .rain, .cit{
@@ -366,7 +366,6 @@ div.logo{
     font-size: 14px;
 }
 .logo p{
-    /* font-style: italic; */
     margin-left: 10px;
     font-size: 16px;
 }
