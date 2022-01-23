@@ -150,6 +150,7 @@ div.logo{
 .item h3{
     color: brown;
     margin: 10px 0;
+    text-transform: uppercase;
 
 }
 .item img{
@@ -234,6 +235,7 @@ div.logo{
 .dots{
     display: flex;
     list-style: none;
+    align-items: center;
 }
 .dot{
     width: 10px;
@@ -335,7 +337,9 @@ div.logo{
     outline: none;
     font-size: 14px;
     font-weight: 400;
-    /* border: 0; */
+    border: 1px solid #aaa;
+    padding: 0 10px;
+    border-radius: 5px;
 }
 .sub form button{
     padding: 0 20px;
@@ -345,5 +349,16 @@ div.logo{
     border: 0;
     color: white;
     font-size: 14px;
+}
+.logo p{
+    font-style: italic;
+    margin-left: 10px;
+    font-size: 16px;
+}
+.logo-inner{
+    color: #F6B400;
+}
+.dot-arrow{
+    width: 32px;
 }
 
