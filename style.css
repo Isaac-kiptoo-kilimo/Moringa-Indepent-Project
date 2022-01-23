@@ -258,3 +258,51 @@ div.logo{
     left: 0;
     width: 400px;
 }
+.mob1{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    background-color: #F6B400;
+    padding: 60px 0;
+}
+.mob{
+    width: 50%;
+}
+.mobleft{
+    padding: 0 0 0 50px;
+}
+.mobleft h2{
+    margin-bottom: 30px;
+}
+.mobleft div{
+    display: flex;
+    margin-top: 60px;
+}
+.mobleft div img{
+    margin-right: 20px;
+    width: 150px;
+}
+.mobright{
+    display: flex;
+    justify-content: space-around;
+}
+.foot{
+    display: flex;
+    margin-top: 20px;
+}
+.foot .w3{
+    width: 33%;
+}
+.foot .logo{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+.dfl h3 , .sub h3{
+    margin-bottom: 10px;
+}
+.dfl ul{
+    list-style: none;
+}
+
+
