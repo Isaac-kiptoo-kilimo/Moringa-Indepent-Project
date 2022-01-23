@@ -1,0 +1,145 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+}
+.logo{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    height: 50px;
+}
+.nav-links{
+    height: 100%;
+}
+.nav-links .link{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    position: relative;
+    margin: 0 20px;
+    padding: 10px 0;
+
+}
+.active-link::after{
+    content: "";
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: red;
+}
+
+.head{ 
+    display: flex;
+    justify-content: space-between
+}
+
+
+div.logo{
+    display: flex;
+}
+.item2{ 
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(115deg, white 50%, #F6B400 50%);
+    padding-top: 100px;
+}
+.rain, .cit{
+    width: 50%;
+}
+.rain{
+    padding: 0 50px;
+    /* background-color: green; */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.rain h1{
+    margin-bottom: 30px;
+}
+.rain p{
+    margin-bottom: 30px;
+}
+.rain button{
+
+    border-radius: 20px 20px 0 20px;
+    outline: none;
+    border: 0;
+    background-color:#fdba00;
+    padding: 6px 12px;
+    color: white;
+    margin-bottom: 30px;
+    font-size: 12px;
+
+}
+.lorem{
+    background-color: #eff6ff;
+    padding: 100px 0;
+}
+.lorem .w3{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lorem .w3 div{
+    border-radius: 10px;
+    border: 1px solid brown;
+}
+.lorem .w3 div h3{
+    color: brown;
+    text-align: center;
+    margin: 15px 0;
+}
+.lorem .w3 div p{
+    font-size: 14px;
+    color: #666666;
+}
+.dfl{
+     padding-left: 150px;
+     margin-left: 100px;
+}
+
+.mob1{ background-color: #F6B400;
+    display: flex;
+    justify-content: space-between;
+}
+.mob{
+    flex-direction: column;
+    padding-left: 150px;
+}
+
+.img1{
+    padding: 20px;
+}
+.img2{
+    display: inline-block;
+}
+.item6{text-align: center
+}
+
+
+.item7{
+    text-align: center;
+}
+.item8{
+    text-align: center;
+}
+.double , .double2 , .double3 , .cop , .foot , .lorem{
+    display: flex;
+    justify-content: space-between;
+}
+
+
