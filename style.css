@@ -331,15 +331,19 @@ div.logo{
     height: 36px;
 }
 .sub form input{
-    background-color: white;
+    background-color: transparent;
     outline: none;
     font-size: 14px;
     font-weight: 400;
-    border: 0;
+    /* border: 0; */
 }
 .sub form button{
     padding: 0 20px;
     background: #F6B400;
-    margin-left: 0;
+    margin-left: -6px;
+    outline: none;
+    border: 0;
+    color: white;
+    font-size: 14px;
 }
 
