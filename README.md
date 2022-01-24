@@ -31,7 +31,7 @@ email:isaac.kiptoo.kilimo@student.moringaschool.com
 Please feel free to make any contributions to the code.
 
 ## Original Layout
-< a scr="project(1).png>
+< a scr="project(1).png">
 
 ## License & copyright
 
