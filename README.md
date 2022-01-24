@@ -32,5 +32,5 @@ Please feel free to make any contributions to the code.
 
 ## License & copyright
 
-Isaac kiptoo kilimo, student Moringa school
+MIT copyright license(c) 2022 Isaac kiptoo kilimo, student Moringa school
 
