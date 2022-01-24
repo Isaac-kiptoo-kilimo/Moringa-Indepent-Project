@@ -6,9 +6,11 @@ By Isaac kiptoo kilimo
 
 ## Description
 
----
+The purpose of the burgar website is to display burger sold and delivery services . The site contains 
 
-The purpose of the burgar website is to display burger sold and delivery services . The site contains six sections; the header, the order button, the delivery part, the explore menu section the hot deals section, the contact us page and the footer.
+six sections; the header, the order button, the delivery part, the explore menu section the hot deals 
+
+section, the contact us page and the footer.
 ---
 ## Setup requirements
 <ol>
@@ -18,6 +20,15 @@ The purpose of the burgar website is to display burger sold and delivery service
 <li>Copy the path of the index.html file to your browser and you will be able to access the application.</li>
 </ol>
 
+## Used Technoligies
+
+HTML and CSS is used in the project
+
+## Support and Contact Details
+
+If you have any issue, do not hesitate to get intouch with me through 
+email:isaac.kiptoo.kilimo@student.moringaschool.com 
+Please feel free to make any contributions to the code.
 
 ## License & copyright
 
