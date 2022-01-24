@@ -1,9 +1,12 @@
-# Writing README for Moringa independent project
+# Burger Place Website
 
-Coding and document week one independent school project .
+This is a clone to a street food website, 23/01/2022
 
-The project is about creating a website for a burger place with a beautiful scenaries.
+By Isaac kiptoo kilimo
 
+## Description
+
+The purpose of the street food website is to display food. The site contains six sections; the header, the eat together section, the explore menu section the hot deals section, the contact us page and the footer.
 ---
 
 ## Contributors
