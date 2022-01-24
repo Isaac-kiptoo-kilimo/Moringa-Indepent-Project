@@ -8,7 +8,7 @@ By Isaac kiptoo kilimo
 
 The purpose of the burgar website is to display burger sold and delivery services . The site contains 
 
-six sections; the header, the order button, the delivery part, the explore menu section the hot deals 
+six sections; the header, the order button, the delivery part, the our menu section, the explosion 
 
 section, the contact us page and the footer.
 
@@ -29,6 +29,9 @@ HTML and CSS is used in the project
 If you have any issue, do not hesitate to get intouch with me through 
 email:isaac.kiptoo.kilimo@student.moringaschool.com 
 Please feel free to make any contributions to the code.
+
+## Original Layout
+< a scr="project(1).png>
 
 ## License & copyright
 
