@@ -30,9 +30,7 @@ If you have any issue, do not hesitate to get intouch with me through
 email:isaac.kiptoo.kilimo@student.moringaschool.com 
 Please feel free to make any contributions to the code.
 
-## Original Layout
-< a scr="project(1).png">
-
+Happy coding in your career
 ## License & copyright
 
 MIT copyright license(c) 2022 Isaac kiptoo kilimo, student Moringa school
