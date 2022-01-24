@@ -11,7 +11,7 @@ The purpose of the burgar website is to display burger sold and delivery service
 six sections; the header, the order button, the delivery part, the explore menu section the hot deals 
 
 section, the contact us page and the footer.
----
+
 ## Setup requirements
 <ol>
 <li>Clone the project using git -clone . If you are not able to clone it, you can download the files as a zip folder</li>
