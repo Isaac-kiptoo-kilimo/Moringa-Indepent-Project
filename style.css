@@ -84,6 +84,7 @@ div.logo{
     display: flex;
     justify-content: center;
     flex-direction: column;
+    
 }
 .rain h1{
     margin-bottom: 30px;
@@ -375,4 +376,5 @@ div.logo{
 .dot-arrow{
     width: 32px;
 }
+
 

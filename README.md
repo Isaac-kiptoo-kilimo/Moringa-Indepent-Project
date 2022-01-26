@@ -34,12 +34,13 @@ Happy coding in your career
 
 ## Layout of the original website of the Burger place
 
-![project](Project.png)
 
+
+![project](Project.png)
 
 ## License & copyright
 
-MIT copyright license(c) 2022 Isaac kiptoo kilimo, student Moringa school
+MIT copyright &copy; license 2022 Isaac kiptoo kilimo, student Moringa school
 
 
 
